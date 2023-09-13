@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Erfarung
+- 👋 Hi, I’m @Erfahrung
 - 👀 I’m interested in Data Science and Embedded Systems 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on AI/ML, Data Science, Web Development (MERN)
